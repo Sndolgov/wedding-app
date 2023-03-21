@@ -1,0 +1,21 @@
+
+.container {
+    background-color: #f2e9dc;
+}
+
+.service-list {
+    display: flex;
+    flex-direction: column;
+    margin: 5%;
+}
+
+.services {
+    display: flex;
+    justify-content: space-around;
+}
+
+.services ul{
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
